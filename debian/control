@@ -1,0 +1,16 @@
+Source: redmine-plugin-stuff-to-do
+Section: ruby
+Priority: optional
+Maintainer: Klee Dienes <klee@mit.edu>
+Build-Depends: debhelper (>= 9), quilt
+Standards-Version: 3.9.5
+Homepage: https://github.com/ande3577/redmine-stuff-to-do-plugin
+
+Package: redmine-plugin-stuff-to-do
+Architecture: all
+Depends: ${misc:Depends}, redmine (>= 2.4.0)
+Description: Allow creation of to-do lists in Redmine
+ The Stuff To Do plugin allows a user to order and prioritize the
+ issues and projects they are doing into a specific order. It will
+ also allow other privileged users to reorder the user's
+ workload.

@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine-stuff-to-do-plugin
+Source: https://github.com/ande3577/redmine-stuff-to-do-plugin
+
+Files: *
+Copyright: UNKNOWN
+License: UNKNOWN

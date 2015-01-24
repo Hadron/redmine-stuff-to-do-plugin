@@ -1,0 +1,15 @@
+*.rb /usr/share/redmine/plugins/stuff_to_do_plugin
+*.gemspec /usr/share/redmine/plugins/stuff_to_do_plugin
+Rakefile /usr/share/redmine/plugins/stuff_to_do_plugin
+app /usr/share/redmine/plugins/stuff_to_do_plugin
+assets/* /usr/share/redmine/public/plugin_assets/stuff_to_do_plugin
+blueprints /usr/share/redmine/plugins/stuff_to_do_plugin
+config /usr/share/redmine/plugins/stuff_to_do_plugin
+db /usr/share/redmine/plugins/stuff_to_do_plugin
+img /usr/share/redmine/plugins/stuff_to_do_plugin
+features /usr/share/redmine/plugins/stuff_to_do_plugin
+lang /usr/share/redmine/plugins/stuff_to_do_plugin
+lib /usr/share/redmine/plugins/stuff_to_do_plugin
+rails /usr/share/redmine/plugins/stuff_to_do_plugin
+spec /usr/share/redmine/plugins/stuff_to_do_plugin
+test /usr/share/redmine/plugins/stuff_to_do_plugin
